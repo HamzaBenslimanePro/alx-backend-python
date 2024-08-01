@@ -40,8 +40,6 @@ By exploring these topics, we aim to leverage Python's capabilities to build rob
 
 ---
 
-```
-
 ### Example of Async Function
 ```python
 import asyncio
